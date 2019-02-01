@@ -1,3 +1,3 @@
 # test
 
-![issuehunt-to-boostnote] (https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/53266139)
+[![issuehunt-to-marktext](https://github.com/BoostIO/issuehunt-materials/blob/master/issuehunt-badge@1x.png?raw=true)](https://issuehunt.io/repos/53266139)
